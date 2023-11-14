@@ -1,6 +1,6 @@
 {
   "name": "@vatsdev/mob-dev",
-  "version": "0.1.20",
+  "version": "0.1.27",
   "bin":"./bin/cli.js",
   "repository": {
     "type": "git",
